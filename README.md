@@ -1,2 +1,2 @@
 # ML-DL-Implementations
-Here I stuffed all my practice and assignments on implementing different sides of ML, DL and Transformers.
+End-to-end ML/DL practice repo: models, training loops, evaluation pipelines, and transformer experiments (PyTorch), organized by topic.
